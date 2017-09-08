@@ -7,8 +7,8 @@ GameWindow {
     screenHeight: 569
 
     GoogleAnalytics {}
-    AdvertHandler {}
     Store {}
+    AdvertHandler {}
 
     Scene {
         id: menuScene
